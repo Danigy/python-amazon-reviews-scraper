@@ -16,6 +16,7 @@ Before you can begin using this tool, you must first set up a few prerequisites.
 
 ### Step 3 
 Change the ips in the script to your IPs. 
+
 ![](https://i.postimg.cc/3NJ6zr5C/image.png)
 
 ### Step 4 
